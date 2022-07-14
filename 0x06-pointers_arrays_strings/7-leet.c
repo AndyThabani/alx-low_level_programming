@@ -22,6 +22,5 @@ char *leet(char *a)
 		}
 		i++;
 	}
-
 	return (a);
 }
